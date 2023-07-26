@@ -1,6 +1,6 @@
 # Super Quiz Show
 
-![Super Quiz Show](./super_quiz_show.png)
+![Super Quiz Show](./super_quiz_show.jpg)
 
 This project is a simple Quiz Game developed using Pascal. The primary aim of this project was to brush up on Pascal, a language I had learned in college. The project was completed in one day, reflecting a quick recap of Pascal.
 
