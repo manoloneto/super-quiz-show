@@ -1,0 +1,4 @@
+English
+en_US
+Portugues do Brasil
+pt_BR
